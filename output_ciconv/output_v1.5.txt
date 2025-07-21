@@ -1,0 +1,2 @@
+# mAP of all classes
+mAP = 50.09%

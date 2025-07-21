@@ -1,0 +1,8 @@
+# AP and precision/recall per class
+50.56% = person AP 
+
+# mAP of all classes
+mAP = 50.56%
+
+# Number of ground-truth objects per class
+person: 50399

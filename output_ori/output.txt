@@ -1,0 +1,5 @@
+# AP and precision/recall per class
+50.12% = person AP 
+
+# mAP of all classes
+mAP = 50.12%
