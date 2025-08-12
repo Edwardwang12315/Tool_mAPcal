@@ -50,7 +50,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 # IMG_PATH = os.path.join(os.getcwd(), 'input', 'images-optional')
 
 GT_PATH = '../dataset/DarkFace/label/'
-DR_PATH = '../DAI-Net/DAI-Net-ciconv/result/annotations/'
+DR_PATH = '../DAI-Net相关/DSFD/result/annotations/'
 IMG_PATH = '../dataset/DarkFace/image/'
 if os.path.exists(IMG_PATH): 
     for dirpath, dirnames, files in os.walk(IMG_PATH):

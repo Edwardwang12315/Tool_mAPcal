@@ -1,0 +1,3 @@
+
+# mAP of all classes
+mAP = 69.16%
